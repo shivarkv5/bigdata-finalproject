@@ -106,8 +106,8 @@ sns.barplot(xlabel, ylabel, data=df, palette="magma").set_title(title)
 ```
 
 ### Results
-![img1]()
-![img2]()
+![img1](https://raw.githubusercontent.com/srkvodnala/bigdata-finalproject/main/BDimg1.PNG)
+![img2](https://raw.githubusercontent.com/srkvodnala/bigdata-finalproject/main/BDimg2.PNG)
 
 ### WordCloud
 1. Download nltk, wordcloud libraries
@@ -162,7 +162,7 @@ clean_data = wordcloud_generator.preprocessing(input_text)
 wordcloud_generator.create_word_cloud(clean_data)
 ```
 
-![img3]()
+![img3](https://raw.githubusercontent.com/srkvodnala/bigdata-finalproject/main/BDimg3.PNG)
 
 
 ### References
